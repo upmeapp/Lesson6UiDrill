@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson6UiDrill</string>
+    <string-array name="cities">
+        <item>TelAviv</item>
+        <item>BeerSheva</item>
+        <item>Haifa</item>
+        <item>Ramat Gan</item>
+        <item>Petach tikva</item>
+    </string-array>
+</resources>
